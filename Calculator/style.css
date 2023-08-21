@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Saira+Condensed&display=swap');
+body{
+    font-family: 'Saira Condensed', sans-serif;
+
+}
+.container{
+    background-color: rgb(12, 12, 12);
+    width: 320px;
+}
+.button {
+    width: 66px;
+    padding: 20px;
+    margin: 3px 0;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.row input {
+    background-color: rgb(196, 255, 106);
+    font-family: 'Orbitron', sans-serif;
+    width: 281px;
+    font-size: 18px;
+    margin: 0;
+    padding: 10px 0;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.orange{
+    background-color: orangered;
+}
+.c{
+    padding: 20px 67px;
+}
+.equal{
+    padding: 20px 67px;
+    background-color: green;
+    font-weight: bolder;
+}
+.c-color{
+    background-color: rgb(245, 140, 140);
+    font-weight: bolder;
+}
