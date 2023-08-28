@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,500&family=Dosis&family=Source+Code+Pro:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 80vw;
+    font-family: 'Dosis', sans-serif;
+}
+
+.navbar {
+    display: flex;
+    height: 67px;
+
+}
+
+.navbar li {
+
+    list-style: none;
+    margin: 0 12px;
+
+}
+
+.topleft {
+    width: 50%;
+
+}
+
+.topright {
+    width: 50%;
+
+}
+
+.gym {
+    width: 466px;
+}
+.contactimg{
+    width: 280px;
+    height: 580px;
+    padding:80px;
+}
+
+.logo {
+    font-size: 2rem;
+}
+
+.section1 {
+    max-height: 100vh;
+}
+
+.section1 h1 {
+    font-size: 2rem;
+}
+
+.section2 {
+    padding: 75px;
+}
+
+.section2 p {
+    padding: 0 5vw;
+    text-align: center;
+}
+
+.section2 h1 {
+    font-size: 3rem;
+}
+
+.dumbelimg {
+    width: 500px;
+
+}
+
+.box {
+    padding: 8px 0;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid black;
+    border-radius: 8px;
+    text-align: center;
+
+
+}
+
+.box h2 {
+    font-size: 2rem;
+    padding: 15px 0;
+}
+
+.box ul {
+    list-style-type: none;
+
+}
+
+.box ul li {
+    margin: 12px 2px;
+}
+
+.highlighted {
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.plantable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section3 {
+    padding: 75px;
+}
+
+.section3 h1 {
+    font-size: 3rem;
+}
+
+.section3 table {
+    width: 100%;
+    margin-top: 20px; ;
+    margin-bottom: 140px;
+    border-collapse: collapse;
+}
+
+.section3 table th{
+    width: 23vw;
+    border-bottom: 2px solid black;
+    padding: 13px 0;
+
+}
+.section3 table td{
+    border-bottom: 2px solid black;
+}
+
+footer{
+    padding: 33px;
+    text-align: center;
+}
+.mainlogo{
+    position: relative;
+    cursor: pointer;
+    display: block;
+
+}
+.logosize{
+    height: 63px;
+    width: 62px;
+
+}
+.container nav li a{
+    text-decoration: none;
+    color: black;
+    list-style: none;
+
+}
+
+.textd{
+    text-decoration: none;
+
+}
+
+.min-h-screen h1{
+    text-align: center;
+}
+
+.dada{
+    color: white;
+    text-decoration: none;
+}
